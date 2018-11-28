@@ -6,6 +6,8 @@
 </head>
 <body>
 	<?php echo "i am php syntax" ;?>
+	<br/>
+	<?php echo "i am new text from Desktop\u2\testing" ;?>
 <h2 id="z">I am zubair</h2>
 <p>I am normal</p>
 <p style="color:red;">I am red</p>
